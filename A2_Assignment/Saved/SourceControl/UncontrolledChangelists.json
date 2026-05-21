@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s2229928/OneDrive - NCG/GitHubRepo/oopsiburntthetoast/A2_Assignment/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/s2229928/OneDrive - NCG/GitHubRepo/oopsiburntthetoast/A2_Assignment/Content/Input/IMC_Default.uasset",
+				"C:/Users/s2229928/OneDrive - NCG/GitHubRepo/oopsiburntthetoast/A2_Assignment/Content/ThirdPerson/Blueprints/2DGameMode.uasset",
+				"C:/Users/s2229928/OneDrive - NCG/GitHubRepo/oopsiburntthetoast/A2_Assignment/Content/Lab_Level.umap",
 				"C:/Users/s2360290/Documents/Unreal Projects/A2_Assignment/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/s2360290/Documents/Unreal Projects/A2_Assignment/Content/Backgrounds+Tilesets/Lab/Standard_Lab_Background__suggested_.uasset",
 				"C:/Users/s2360290/Documents/Unreal Projects/A2_Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
