@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/johnw/Documents/GitHub/oopsiburntthetoast/A2_Assignment/Content/Mouse_cursor/MC_SHOVEL_Weapon.uasset",
+				"C:/Users/johnw/Documents/GitHub/oopsiburntthetoast/A2_Assignment/Content/Mouse_cursor/WC_Shovel_weapon.uasset",
+				"C:/Users/johnw/Documents/GitHub/oopsiburntthetoast/A2_Assignment/Content/ThirdPerson/Blueprints/BP_Player.uasset",
 				"C:/Users/s2229928/OneDrive - NCG/GitHubRepo/oopsiburntthetoast/A2_Assignment/Content/ThirdPerson/Blueprints/BP_Player.uasset",
 				"C:/Users/s2229928/OneDrive - NCG/GitHubRepo/oopsiburntthetoast/A2_Assignment/Content/Input/IMC_Default.uasset",
 				"C:/Users/s2229928/OneDrive - NCG/GitHubRepo/oopsiburntthetoast/A2_Assignment/Content/ThirdPerson/Blueprints/2DGameMode.uasset",
