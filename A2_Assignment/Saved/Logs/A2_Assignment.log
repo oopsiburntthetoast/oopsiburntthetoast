@@ -1315,3 +1315,44 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.31-00.25.33:027][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2026.05.31-00.25.33:027][  0]LogPakFile: Initializing PakPlatformFile
 [2026.05.31-00.25.33:036][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.05.31-00.25.33:569][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.05.31-00.25.33:580][  0]LogSlate: Took 0.006894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.05.31-00.25.33:588][  0]LogSlate: Took 0.006687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.05.31-00.25.33:622][  0]LogNNEDenoiser: ApplySettings: bDenoiserEnabled 1
+[2026.05.31-00.25.33:652][  0]LogNNEDenoiser: Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+[2026.05.31-00.25.33:659][  0]LogNNEDenoiser: Loaded output mapping from NNEDOM_Output_Alpha
+[2026.05.31-00.25.33:659][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2026.05.31-00.25.33:720][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2026.05.31-00.25.33:720][  0]LogNNEDenoiser: Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+[2026.05.31-00.25.33:735][  0]LogNNEDenoiser: Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+[2026.05.31-00.25.33:743][  0]LogNNEDenoiser: Loaded output mapping from NNEDTOM_Output_Alpha
+[2026.05.31-00.25.33:743][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2026.05.31-00.25.33:797][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2026.05.31-00.25.33:797][  0]LogNNEDenoiser: Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+[2026.05.31-00.25.34:136][  0]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 157.85 ms. Compile time 53.20 ms, link time 104.53 ms.
+[2026.05.31-00.25.34:375][  0]LogPSOHitching: Encountered 50 PSO creation hitches so far (10 graphics, 40 compute). 0 of them were precached.
+[2026.05.31-00.25.34:679][  0]LogPSOHitching: Encountered 100 PSO creation hitches so far (20 graphics, 80 compute). 0 of them were precached.
+[2026.05.31-00.25.35:467][  0]LogStall: Startup...
+[2026.05.31-00.25.35:469][  0]LogStall: Startup complete.
+[2026.05.31-00.25.35:473][  0]LogLoad: (Engine Initialization) Total time: 16.00 seconds
+[2026.05.31-00.25.35:667][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.05.31-00.25.35:667][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.05.31-00.25.35:713][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.31-00.25.35:715][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.05.31-00.25.35:746][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.05.31-00.25.35:747][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 32.766 ms
+[2026.05.31-00.25.35:888][  1]LogAssetRegistry: AssetRegistryGather time 0.1322s: AssetDataDiscovery 0.0381s, AssetDataGather 0.0196s, StoreResults 0.0745s. Wall time 10.3770s.
+	NumCachedDirectories 0. NumUncachedDirectories 1644. NumCachedFiles 7717. NumUncachedFiles 0.
+	BackgroundTickInterruptions 0.
+[2026.05.31-00.25.35:910][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2026.05.31-00.25.35:910][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2026.05.31-00.25.36:057][  2]LogPSOHitching: Encountered 150 PSO creation hitches so far (46 graphics, 104 compute). 0 of them were precached.
+[2026.05.31-00.25.36:073][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 6.279050
+[2026.05.31-00.25.36:075][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.05.31-00.25.36:076][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6.402848
+[2026.05.31-00.25.36:659][  6]LogSourceControl: Uncontrolled asset enumeration finished in 0.749472 seconds (Found 7692 uncontrolled assets)
+[2026.05.31-00.25.37:303][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.05.31-00.25.37:970][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.966949
+[2026.05.31-00.25.37:971][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1091969823
+[2026.05.31-00.25.37:971][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.966949, Update Interval: 327.087616
